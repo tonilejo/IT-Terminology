@@ -74,6 +74,7 @@ Terminology
  ### Links
   - https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/
   - https://www.elementsofai.com/
+  - https://whimsical.com/6-step-field-guide-to-machine-learning-projects-flowcharts-9g65jgoRYTxMXxDosndYTB
   
  ### Unorgranized
   Accuracy, training time, prediction time
