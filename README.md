@@ -71,6 +71,10 @@ Terminology
   - XGBoost
   - Tensor Flow
  
+ ### Links
+  - https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/
+  - https://www.elementsofai.com/
+  
  ### Unorgranized
   Accuracy, training time, prediction time
   Accuracy, Precision, Recall
