@@ -121,3 +121,59 @@ The ability for machine learning model to perform well on data it hasn’t seen 
 
 ### Precision @ k
 - Same as regular precision, however, you choose the cutoff, k. For example, precision at 5, means we only care about the top 5 recommendations. You may have 10,000 products. But you can’t recommend them all to your customers.
+
+### Links
+  - https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/
+  - https://www.elementsofai.com/
+  - https://whimsical.com/6-step-field-guide-to-machine-learning-projects-flowcharts-9g65jgoRYTxMXxDosndYTB
+  
+ ### Unorgranized
+  Accuracy, training time, prediction time
+  Accuracy, Precision, Recall
+ Mean absolute error (MAE)
+ Mean squared error (MSE)
+ Root mean squared error (RMSE)
+ Precision at K
+ Data Science
+Data Engineering
+Data Mining
+Big Data
+Hybrid Cloud
+Descriptive Analytics
+Predictive Analytics
+Statistics
+Neural networks
+Decision tree
+Support vector machine
+K nearest neighbour
+Transfer Learning
+Framework
+Label
+
+### Data sets
+  - Training
+  - Validation
+  - #### Test
+    - Underfitting
+      - Data mismatch
+    - Overfitting
+      - Data Leakage
+
+### Features
+  - Numerical
+  - Categorical
+  - Derived
+  - Feature Engineering
+  - Feature Coverage
+
+ ### Tools
+  - Anaconda
+  - Jupyter Notebook
+  - Matplot lib
+  - Num Py
+  - Pandas
+  - Scikit learn
+  - Py Torch
+  - Catboost
+  - XGBoost
+  - Tensor Flow
