@@ -1,4 +1,4 @@
-# Code Terminology
+# Code
 
 Snake case, camel case
 IDE
