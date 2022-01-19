@@ -1,4 +1,4 @@
-# Networking Terms
+# Networking
 
 TCP
 IP IPv4/6 private public
