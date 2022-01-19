@@ -1,5 +1,7 @@
 # Code
 
+## Variable Naming Conventions
+
 ### Snake case
 - Snake case uses an underscore between words to create separation. Variable names cannot contain spaces, which reduces readability when multiple words must be used to describe a variable's purpose. The underscore in a snake-cased variable tries to minimize this shortcoming.
 - this_is_snake_case
