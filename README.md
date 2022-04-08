@@ -2,10 +2,11 @@
 
 # Terminology
 
-- Machine Learning
-- Networking
-- IT
+- Python
+- C++
 - Code
+- IT
+
 
  
  
