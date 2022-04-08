@@ -1,4 +1,4 @@
-# Networking
+# Networking and Communication
 
 TCP
 IP IPv4/6 private public
@@ -27,3 +27,8 @@ Why MAC addresses can’t be used instead of IPv4 or IPv6?
 Difference between VLAN and subnet
 Router vs gateway
 Default gateway
+--------------------------------------------------------
+Infrared
+Bluetooth
+Wireless
+NFC
